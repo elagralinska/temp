@@ -1,0 +1,9 @@
+Step 1 complete: loading libraries
+indexing sdtm_ct.csv [=======================================] 1.92GB/s, eta:  0s                                                                                 Step 2 complete: loading data
+Step 3 complete: mapping topic variable
+G3;ℹ These terms could not be mapped per the controlled terminology: "Randomized", "Completed", "Study Terminated by Sponsor", "Screen Failure", and "Lost to Follow-Up".
+gG3;ℹ These terms could not be mapped per the controlled terminology: "Ambul Ecg Removal", "Unscheduled 6.1", "Unscheduled 1.1", "Unscheduled 5.1", "Unscheduled 4.1", "Unscheduled 8.2", and "Unscheduled 13.1".
+gG3;ℹ These terms could not be mapped per the controlled terminology: "Ambul Ecg Removal", "Unscheduled 6.1", "Unscheduled 1.1", "Unscheduled 5.1", "Unscheduled 4.1", "Unscheduled 8.2", and "Unscheduled 13.1".
+gStep 4 complete: mapping rest of vaStep 4 cStep 5 complete: creating SDTM deriStep 5 completStep 6 complete: exporting ds.csv
+
+Step 6 complete: exporting ds.csv
