@@ -1,0 +1,8 @@
+Step 1 complete: loading libraries
+Step 2 complete: filtering treatment-emergent adverse events
+Step 3 and 4 complete: TOTAL column
+Step 5 complete: ordering
+Step 6 complete: building FDA table
+Error in gtsave(ae_tbl, "ae_table.pdf") : 
+  could not find function "gtsave"
+[1] "/Users/elagralinska/Documents/working_files_R"

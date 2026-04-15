@@ -1,0 +1,5 @@
+Step 1 complete: loading libraries
+Step 2 complete: generating Plot 1
+Step 3 complete: generating Plot 2
+`height` was translated to `width`.
+Step 4 complete: saving plots
